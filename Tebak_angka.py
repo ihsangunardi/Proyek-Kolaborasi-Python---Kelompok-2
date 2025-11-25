@@ -1,3 +1,10 @@
+import random
+
+paling_kecil = 1
+paling_besar = 50
+angka_rahasia = random.randint(paling_kecil, paling_besar)
+batas_percobaan = 7
+
 def cek_tebakan(tebak, angka_rahasia):
     if tebak == angka_rahasia:
         return "Selamat!! Anda Benar"
