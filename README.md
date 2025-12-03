@@ -2,6 +2,22 @@
 
 
 
+
+## Fitur utama
+- **Random Number Generator** yaitu komputer memilih angka secara acak
+- **Input Validasi Pengguna** memastikan input berupa angka dan berada dalam rentang yang sudah ditentukan
+- **Sistem Batas Percobaan** membuat maksimal percobaan 7 kali
+- **Feedback Langsung** memberikan petunjuk jika tebakan "Terlalu Kecil", "Terlalu Besar", atau "Benar"
+- **Akhir Permainan** Menamilkan hasil menang atau kalah
+
+---
+
+
+
+
+
+
+
 ## Dokumentasi Teknis
 ### **Flowchart Program**
 
