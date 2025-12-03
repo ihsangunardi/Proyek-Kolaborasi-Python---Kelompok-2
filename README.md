@@ -3,7 +3,7 @@
 # Game Tebak Angka – Kelompok 2
 
 ## Pendahuluan
-Game Tebak Angka adalah program sederhana berbasis Python yang memungkinkan pengguna menebak angka rahasia yang ditentukan secara acak oleh komputer.  
+Game Tebak Angka adalah suatu program sederhana berbasis Python yang memungkinkan pengguna menebak angka rahasia yang ditentukan secara acak oleh komputer.  
 Pengguna diberi batas **7 percobaan** untuk menemukan angka yang berada dalam rentang **1 hingga 50**.  
 Program ini juga memvalidasi input agar pengguna hanya memasukkan angka yang sesuai dengan ketentuan.
 Aplikasi ini dibuat sebagai bagian dari **Proyek Kolaborasi Python** untuk melatih kerja sama tim menggunakan GitHub serta pemahaman logika pemrograman.
