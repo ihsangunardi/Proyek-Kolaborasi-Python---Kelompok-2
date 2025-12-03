@@ -21,10 +21,25 @@ Aplikasi ini dibuat sebagai bagian dari **Proyek Kolaborasi Python** untuk melat
 ---
 
 
+## Panduan instalasi
+1.Clone Repository
+   pastikan Git sudah terpasang
+  - selanjutnya di Git bash ketik : git clone https://github.com/ihsangunardi/Proyek-Kolaborasi-Python---Kelompok-2.git
+2. masuk ke folder project
+   - buka Git bash ketik : cd Proyek-Kolaborasi-Python---Kelompok-2
+3 (opsionl) instal library
+  jika program menggunakan library eksternal, instal dengan:
+ - buka bash ketik : pip install -r requirements.txt
 
+---
 
+## Panduan Menjalankan Program 
+ -kita bisa menjalankan program utama dengan perintah di Git bash dengan mengetik : python nama_file_utama.py
+ 
+ - untuk program kita yaitu game tebak angka, kita bisa menjalankan dengan perintah
+   di git bash dengan mengetik : python tebak_angka.py
 
-
+---
 
 ## Dokumentasi Teknis
 ### **Flowchart Program**
